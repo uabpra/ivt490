@@ -2,7 +2,9 @@
 using namespace esphome;
 #include <SPI.h>
 
-int CS= 15;
+// GPIO16 for VPMonitor 1.2 boards
+
+int CS= 16;
 
 class CustomDigipotOutput : public Component, public FloatOutput {
  public:
