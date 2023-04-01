@@ -1,1 +1,4 @@
 This is the homeassistant yaml for the VPmonitor 1.2 for ivt490, vers 1.2 has additional control functions for GTE5 & EXT IN
+
+
+This code is based on https://github.com/stefanh12/IVT_490_esphome
