@@ -2,3 +2,5 @@ This is the homeassistant yaml for the VPmonitor 1.2 for ivt490, vers 1.2 has ad
 
 
 This code is based on https://github.com/stefanh12/IVT_490_esphome
+
+See WIKI for more info on status on this project https://github.com/uabpra/ivt490/wiki/IVT490-monitor
