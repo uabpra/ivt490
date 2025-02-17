@@ -45,7 +45,7 @@ number:
     optimistic: true
     min_value: 0
     max_value: 100
-    initial_value: 0
+    initial_value: 54
     step: 1
     mode: slider
     on_value:
