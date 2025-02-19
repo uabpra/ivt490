@@ -72,12 +72,12 @@ void loop() override {
   recieved=0;
   if(available() > 1){
     ESP_LOGD("TAG", "'%s' - Setting", "Loop()");
-    delay(100);
+ //   delay(100);
     fetchSerial();
     splitString();
     publishState();
   }
-  delay(100);
+ // delay(100);
 
 }
 
